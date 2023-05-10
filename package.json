@@ -1,0 +1,24 @@
+{
+  "name": "due-or-die",
+  "version": "1.0.0",
+  "description": "Thanks for stopping by! Before each article is posted a new branch will be created containing all the code up to and including the code from the new post so that you can follow along with the series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appologetic/due-or-die.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Appologetic/due-or-die/issues"
+  },
+  "homepage": "https://github.com/Appologetic/due-or-die#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
