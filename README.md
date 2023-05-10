@@ -14,7 +14,7 @@ Due or Die is a due date tracking application that you can use in your courses, 
 In creating an app with these criteria we should be able to provide you with a good idea of how to set up and start a Node based project, what some of the common modules you'll need to use are, and introduce you to a stack using Node that you can use for your own projects.
 
 ## So far we've covered...
-Nothing! This is the code that belongs with the first article in the series which can be found [here](add link after post). This section will be updated with the things we've covered so far as future posts come out and code gets added to our repository.
+Nothing! This is the code that belongs with the first article in the series which can be found [here](https://schulichignite.com/blog/intro2node/). This section will be updated with the things we've covered so far as future posts come out and code gets added to our repository.
 
 ## In this article...
 In this article we covered some Node basics to set up our series. Follow along with the article to learn about what Node is and why it's a good choice for developers, as well as how to install Node and NPM and use it to run your first JavaScript file.
