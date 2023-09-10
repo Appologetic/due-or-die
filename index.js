@@ -8,7 +8,7 @@ if (mockURL == "https://dueordie.com") {
     console.log("Welcome to the homepage of the website")
 }
 else if(mockURL == "https://dueordie.com/sign-up"){
-    console.log("This is the sign in page")
+    console.log("This is the sign up page")
 }
 else{
     console.log("404: that URL does not exist")
