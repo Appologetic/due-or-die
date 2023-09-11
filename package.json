@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Appologetic/due-or-die#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "nodemon": "^2.0.22"
   }
 }
